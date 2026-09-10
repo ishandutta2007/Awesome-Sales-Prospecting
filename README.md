@@ -28,7 +28,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
-- [SaaS/Hosted Platforms](#saas-products)
+- [SaaS/Hosted Platforms](#saashosted-platforms)
 
 - [Open-Source GitHub Projects](#open-source-github-projects)
 
@@ -40,63 +40,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[Apollo.io](https://www.apollo.io/)**  
-
-  Popular all-in-one prospecting platform combining a large B2B contact database with sequencing, email tools, and basic intent signals — strong value for mid-market teams.
-
-
-
-- **[ZoomInfo](https://www.zoominfo.com/)**  
-
-  Enterprise-grade B2B data and intelligence platform with deep contact coverage, org charts, intent, and GTM workflows.
-
-
-
-- **[Lusha](https://www.lusha.com/)**  
-
-  Lightweight contact and company data tool with a strong browser extension for quick email and phone lookup, especially on LinkedIn.
-
-
-
-- **[Cognism](https://www.cognism.com/)**  
-
-  B2B contact data platform known for GDPR-compliant European coverage and verified mobile numbers.
-
-
-
-- **[Kaspr](https://www.kaspr.io/)**  
-
-  LinkedIn-focused prospecting and enrichment tool popular for finding emails and phone numbers directly from profiles.
-
-
-
-- **[Snov.io](https://snov.io/)**  
-
-  Email finder, verifier, and outreach platform with prospecting and drip-campaign capabilities.
-
-
-
-- **[Uplead](https://www.uplead.com/)**  
-
-  B2B contact database and enrichment service focused on accurate emails and direct dials.
-
-
-
-- **[LeadIQ](https://leadiq.com/)**  
-
-  Prospecting and capture tool that helps sales teams build lists and push contacts into CRM and sequencers.
-
-
-
-- **[Seamless.AI](https://seamless.ai/)**  
-
-  Real-time search and contact-discovery platform aimed at finding verified buyer information.
-
-
-
-- **[RocketReach](https://rocketreach.co/)**  
-
-  Contact and company lookup tool used across sales, recruiting, and research for emails, phones, and social profiles.
+| Platform | Description | Pricing (Starting Tier) | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Apollo.io](https://www.apollo.io/)** | All-in-one prospecting platform combining a large B2B contact database with sequencing, email tools, and basic intent signals. | **$49/user/month** (billed annually) or **$59/user/month** (billed monthly) for Basic plan | **Free forever plan**: 10,000 email credits/mo, 5 mobile number credits/mo (60/yr), 10 export credits/mo, and up to 2 active sequences. |
+| **[ZoomInfo](https://www.zoominfo.com/)** | Enterprise-grade B2B data and intelligence platform with deep contact coverage, org charts, buyer intent, and GTM workflows. | **~$14,995/year** (~$1,250/mo) starting price for Professional tier (annual commitment required) | **ZoomInfo Lite**: Free plan with 10–25 credits/mo (requires business contact sharing); **14-day free trial** on request with ~25 credits. |
+| **[Lusha](https://www.lusha.com/)** | Lightweight contact and company data tool with a browser extension for direct dial and email lookups on LinkedIn. | **$37.45/user/month** (billed annually) or **$49.95/user/month** (billed monthly) for Starter plan | **Free forever plan**: 40 credits/month (5 direct phone/email credits + 35 email lookups), 1 user seat. |
+| **[Cognism](https://www.cognism.com/)** | B2B contact data platform specializing in GDPR-compliant global/European coverage and phone-verified mobile numbers (Diamond Data). | **~$15,000/year** (~$1,250/mo) starting price for Standard tier (annual contract required) | **No self-serve free plan**; provides **25 free verified lead samples** / test lookups upon scheduling a product demo. |
+| **[Kaspr](https://www.kaspr.io/)** | LinkedIn-focused prospecting and enrichment Chrome extension for finding direct emails and phone numbers. | **$49/user/month** (billed annually) or **$65/user/month** (billed monthly) for Starter plan | **Free forever plan**: 5 phone credits/mo, 5 direct email credits/mo, 10 export credits/mo, and unlimited B2B email credits. |
+| **[Snov.io](https://snov.io/)** | Email finder, verifier, and drip-outreach automation platform with sales CRM and warm-up tools. | **$30/month** (billed annually) or **$39/month** (billed monthly) for Starter plan (1,000 credits, 5,000 recipients) | **Free forever plan**: 50 credits/month, 100 recipient emails/month, and 1 email warm-up slot (refreshes monthly). |
+| **[UpLead](https://www.uplead.com/)** | High-accuracy B2B database offering real-time email verification and verified direct phone dials. | **$74/month** (billed annually) or **$99/month** (billed monthly) for Essentials plan (170 credits/mo) | **7-day free trial** with 5 verified contact credits and full platform search features (requires card activation). |
+| **[LeadIQ](https://leadiq.com/)** | Prospecting capture tool that helps sales teams identify decision-makers and sync contacts directly into CRMs/sequencers. | **$39/user/month** (billed annually) or **$49/user/month** (billed monthly) for Starter plan | **Free forever plan**: 50 credits/month for 1 user seat (1 credit = 1 email, 10 credits = 1 mobile phone lookup); **30-day free trial** of paid plans. |
+| **[Seamless.AI](https://seamless.ai/)** | Real-time search engine and contact-discovery engine for finding verified B2B emails, direct dials, and buyer intent. | **~$147/user/month** (billed annually, standard entry team package starts at ~$4,740/year) for Pro plan | **Free plan**: 50 lifetime credits granted upon registration (one-time allotment, does not refresh monthly). |
+| **[RocketReach](https://rocketreach.co/)** | Extensive contact database for looking up personal/work emails, direct phone numbers, and social profiles. | **$33/month** (billed annually) or **$48/month** (billed monthly) for Essentials plan | **Free plan**: 5 free contact lookups/credits upon account sign-up (no credit card required). |
 
 
 
