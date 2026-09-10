@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Sales-Prospecting/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Sales-Prospecting?style=flat-square&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Sales-Prospecting/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Sales-Prospecting?style=flat-square&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Sales-Prospecting/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Sales-Prospecting?style=flat-square&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Sales-Prospecting/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Sales-Prospecting?style=flat-square&color=green" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -80,43 +80,43 @@ Contributions are always welcome! Feel free to open a pull request to add or upd
 
 *Sorted descending by GitHub star count.*
 
-- **[browser-use/browser-use](https://github.com/browser-use/browser-use)** [![GitHub stars](https://img.shields.io/github/stars/browser-use/browser-use?style=social&color=white)](https://github.com/browser-use/browser-use/stargazers)  
+- **[browser-use/browser-use](https://github.com/browser-use/browser-use)** [![GitHub_Stars](https://img.shields.io/github/stars/browser-use/browser-use?style=social&color=white)](https://github.com/browser-use/browser-use/stargazers)  
   ⚡ Open-source AI agent library making websites accessible for automated prospect research, web data extraction, and autonomous lead harvesting.
 
-- **[sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)** [![GitHub stars](https://img.shields.io/github/stars/sherlock-project/sherlock?style=social&color=white)](https://github.com/sherlock-project/sherlock/stargazers)  
+- **[sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)** [![GitHub_Stars](https://img.shields.io/github/stars/sherlock-project/sherlock?style=social&color=white)](https://github.com/sherlock-project/sherlock/stargazers)  
   🔎 Powerful OSINT tool to hunt down prospect social media accounts and digital profiles across 400+ social networks by username.
 
-- **[twentyhq/twenty](https://github.com/twentyhq/twenty)** [![GitHub stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)  
+- **[twentyhq/twenty](https://github.com/twentyhq/twenty)** [![GitHub_Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)  
   🏆 Modern open-source CRM with pipeline management, lead prospecting workflows, custom objects, and API-first architecture.
 
-- **[unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)** [![GitHub stars](https://img.shields.io/github/stars/unclecode/crawl4ai?style=social&color=white)](https://github.com/unclecode/crawl4ai/stargazers)  
+- **[unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)** [![GitHub_Stars](https://img.shields.io/github/stars/unclecode/crawl4ai?style=social&color=white)](https://github.com/unclecode/crawl4ai/stargazers)  
   🕷️ High-speed, LLM-friendly open-source web crawler and scraper designed specifically for AI agent data pipelines and lead extraction.
 
-- **[mendableai/firecrawl](https://github.com/mendableai/firecrawl)** [![GitHub stars](https://img.shields.io/github/stars/mendableai/firecrawl?style=social&color=white)](https://github.com/mendableai/firecrawl/stargazers)  
+- **[mendableai/firecrawl](https://github.com/mendableai/firecrawl)** [![GitHub_Stars](https://img.shields.io/github/stars/mendableai/firecrawl?style=social&color=white)](https://github.com/mendableai/firecrawl/stargazers)  
   🔥 Turn entire company websites into clean, structured markdown and structured JSON for LLM-powered company intelligence and lead enrichment.
 
-- **[smicallef/spiderfoot](https://github.com/smicallef/spiderfoot)** [![GitHub stars](https://img.shields.io/github/stars/smicallef/spiderfoot?style=social&color=white)](https://github.com/smicallef/spiderfoot/stargazers)  
+- **[smicallef/spiderfoot](https://github.com/smicallef/spiderfoot)** [![GitHub_Stars](https://img.shields.io/github/stars/smicallef/spiderfoot?style=social&color=white)](https://github.com/smicallef/spiderfoot/stargazers)  
   🕸️ Automated OSINT and intelligence gathering platform for deep reconnaissance on domain names, IP addresses, emails, and company infrastructure.
 
-- **[sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga)** [![GitHub stars](https://img.shields.io/github/stars/sundowndev/phoneinfoga?style=social&color=white)](https://github.com/sundowndev/phoneinfoga/stargazers)  
+- **[sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga)** [![GitHub_Stars](https://img.shields.io/github/stars/sundowndev/phoneinfoga?style=social&color=white)](https://github.com/sundowndev/phoneinfoga/stargazers)  
   📱 Advanced information gathering and OSINT tool for international phone numbers — carrier lookup, VoIP detection, and footprinting.
 
-- **[laramies/theHarvester](https://github.com/laramies/theHarvester)** [![GitHub stars](https://img.shields.io/github/stars/laramies/theHarvester?style=social&color=white)](https://github.com/laramies/theHarvester/stargazers)  
+- **[laramies/theHarvester](https://github.com/laramies/theHarvester)** [![GitHub_Stars](https://img.shields.io/github/stars/laramies/theHarvester?style=social&color=white)](https://github.com/laramies/theHarvester/stargazers)  
   📧 Classic OSINT reconnaissance tool designed to gather corporate emails, employee names, subdomains, and public IPs from search engines and PGP servers.
 
-- **[megadose/holehe](https://github.com/megadose/holehe)** [![GitHub stars](https://img.shields.io/github/stars/megadose/holehe?style=social&color=white)](https://github.com/megadose/holehe/stargazers)  
+- **[megadose/holehe](https://github.com/megadose/holehe)** [![GitHub_Stars](https://img.shields.io/github/stars/megadose/holehe?style=social&color=white)](https://github.com/megadose/holehe/stargazers)  
   🔍 Email OSINT utility that verifies whether an email address is registered across 120+ online platforms without alerting the target.
 
-- **[asiifdev/business-leads-ai-automation](https://github.com/asiifdev/business-leads-ai-automation)** [![GitHub stars](https://img.shields.io/github/stars/asiifdev/business-leads-ai-automation?style=social&color=white)](https://github.com/asiifdev/business-leads-ai-automation/stargazers)  
+- **[asiifdev/business-leads-ai-automation](https://github.com/asiifdev/business-leads-ai-automation)** [![GitHub_Stars](https://img.shields.io/github/stars/asiifdev/business-leads-ai-automation?style=social&color=white)](https://github.com/asiifdev/business-leads-ai-automation/stargazers)  
   🤖 Open-source, self-hosted lead generation and GTM automation platform — Google Maps scraping, AI scoring, personalized outreach templates, and CRM.
 
-- **[dariubs/awesome-lead-generation](https://github.com/dariubs/awesome-lead-generation)** [![GitHub stars](https://img.shields.io/github/stars/dariubs/awesome-lead-generation?style=social&color=white)](https://github.com/dariubs/awesome-lead-generation/stargazers)  
+- **[dariubs/awesome-lead-generation](https://github.com/dariubs/awesome-lead-generation)** [![GitHub_Stars](https://img.shields.io/github/stars/dariubs/awesome-lead-generation?style=social&color=white)](https://github.com/dariubs/awesome-lead-generation/stargazers)  
   📚 Curated collection of lead generation frameworks, scrapers, tools, strategies, and growth resources.
 
-- **[issacops/opencloser-v2](https://github.com/issacops/opencloser-v2)** [![GitHub stars](https://img.shields.io/github/stars/issacops/opencloser-v2?style=social&color=white)](https://github.com/issacops/opencloser-v2/stargazers)  
+- **[issacops/opencloser-v2](https://github.com/issacops/opencloser-v2)** [![GitHub_Stars](https://img.shields.io/github/stars/issacops/opencloser-v2?style=social&color=white)](https://github.com/issacops/opencloser-v2/stargazers)  
   🖥️ Local-first open-source AI sales prospector with ICP building, automated company researcher, and cold outreach drafting on desktop.
 
-- **[ishandutta2007/open-sales-gpt](https://github.com/ishandutta2007/open-sales-gpt)** [![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/open-sales-gpt?style=social&color=white)](https://github.com/ishandutta2007/open-sales-gpt/stargazers)  
+- **[ishandutta2007/open-sales-gpt](https://github.com/ishandutta2007/open-sales-gpt)** [![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/open-sales-gpt?style=social&color=white)](https://github.com/ishandutta2007/open-sales-gpt/stargazers)  
   🧠 Open sales-intelligence and autonomous agent framework combining prospect research, automated data enrichment, and outbound synthesis.
 
 ---
